@@ -1,0 +1,2 @@
+# Arquitetura
+RAG + LLM + ChromaDB
